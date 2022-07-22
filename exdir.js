@@ -27,7 +27,7 @@ exports.read_dataset = exports.open_dataset = exports.read_attributes = exports.
 var fs = require('fs');
 var path = require('path');
 const YAML = require('yaml');
-const npyio = __importStar(require("../npyio-ts/npyio"));
+var npyio = require('nypio-ts');
 function create_group(path_root, name) {
     // Make the folder
     let to_create = path.join(path_root, name);

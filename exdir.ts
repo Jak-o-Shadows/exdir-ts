@@ -3,7 +3,7 @@ var path = require('path');
 const YAML = require('yaml')
 
 
-import * as npyio from "../npyio-ts/npyio";
+var npyio = require('nypio-ts');
 
 
 export function create_group(path_root: string, name: string) : string{
