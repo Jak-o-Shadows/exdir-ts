@@ -1,0 +1,29 @@
+{
+  "name": "exdir-ts",
+  "version": "0.0.1",
+  "description": "Write exdir files in typescript",
+  "main": "exdir.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jak-o-Shadows/exdir-ts.git"
+  },
+  "keywords": [
+    "numpy",
+    "binary",
+    "exdir",
+    "file",
+    "input",
+    "output",
+    "parser"
+  ],
+  "author": "Jak_o_Shadows",
+  "license": "LGPL-2.1-or-later",
+  "types": "./exdir.d.ts",
+  "bugs": {
+    "url": "https://github.com/Jak-o-Shadows/exdir-ts/issues"
+  },
+  "homepage": "https://github.com/Jak-o-Shadows/exdir-ts#readme"
+}
