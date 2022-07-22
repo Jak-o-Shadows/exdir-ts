@@ -1,6 +1,6 @@
 {
   "name": "exdir-ts",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Write exdir files in typescript",
   "main": "exdir.js",
   "scripts": {
