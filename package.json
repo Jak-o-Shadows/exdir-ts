@@ -25,5 +25,8 @@
   "bugs": {
     "url": "https://github.com/Jak-o-Shadows/exdir-ts/issues"
   },
-  "homepage": "https://github.com/Jak-o-Shadows/exdir-ts#readme"
+  "homepage": "https://github.com/Jak-o-Shadows/exdir-ts#readme",
+  "dependencies": {
+    "npyio-ts": "^0.0.1"
+  }
 }
